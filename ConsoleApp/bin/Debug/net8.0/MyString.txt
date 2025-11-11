@@ -1,0 +1,6 @@
+﻿{Value:Hello,Length:5,Key:2,Dir:1,Enc:Jgnnq}
+{Value:World,Length:5,Key:3,Dir:1,Enc:Zruog}
+{Value:Kyiv,Length:4,Key:1,Dir:0,Enc:Jxhu}
+{Value:Encryption,Length:10,Key:5,Dir:1,Enc:Jshw~uynts}
+{Value:Test123,Length:7,Key:4,Dir:1,Enc:Xiwx567}
+{Value:Привіт,Length:6,Key:2,Dir:1,Enc:Сткдјф}

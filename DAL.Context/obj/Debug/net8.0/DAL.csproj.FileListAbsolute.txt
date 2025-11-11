@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\DAL.Context\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\DAL.Context\bin\Debug\net8.0\DAL.dll
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\DAL.Context\bin\Debug\net8.0\DAL.pdb
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\DAL.Context\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\DAL.Context\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\DAL.Context\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\DAL.Context\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\DAL.Context\obj\Debug\net8.0\DAL.dll
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\DAL.Context\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\DAL.Context\obj\Debug\net8.0\DAL.pdb
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\DAL.Context\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\DAL.Context\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache

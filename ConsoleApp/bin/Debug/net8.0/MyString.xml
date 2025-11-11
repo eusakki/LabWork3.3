@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMyString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MyString>
+    <Value>Hello</Value>
+    <Length>5</Length>
+    <Key>2</Key>
+    <Direction>true</Direction>
+    <EncryptedValue>Jgnnq</EncryptedValue>
+  </MyString>
+  <MyString>
+    <Value>World</Value>
+    <Length>5</Length>
+    <Key>3</Key>
+    <Direction>true</Direction>
+    <EncryptedValue>Zruog</EncryptedValue>
+  </MyString>
+  <MyString>
+    <Value>Kyiv</Value>
+    <Length>4</Length>
+    <Key>1</Key>
+    <Direction>false</Direction>
+    <EncryptedValue>Jxhu</EncryptedValue>
+  </MyString>
+  <MyString>
+    <Value>Encryption</Value>
+    <Length>10</Length>
+    <Key>5</Key>
+    <Direction>true</Direction>
+    <EncryptedValue>Jshw~uynts</EncryptedValue>
+  </MyString>
+  <MyString>
+    <Value>Test123</Value>
+    <Length>7</Length>
+    <Key>4</Key>
+    <Direction>true</Direction>
+    <EncryptedValue>Xiwx567</EncryptedValue>
+  </MyString>
+  <MyString>
+    <Value>Привіт</Value>
+    <Length>6</Length>
+    <Key>2</Key>
+    <Direction>true</Direction>
+    <EncryptedValue>Сткдјф</EncryptedValue>
+  </MyString>
+</ArrayOfMyString>

@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Value": "Hello_Modified",
+    "Length": 14,
+    "Key": 2,
+    "Direction": true,
+    "EncryptedValue": "JgnnqaOqfkhkgf"
+  },
+  {
+    "Value": "World",
+    "Length": 5,
+    "Key": 3,
+    "Direction": true,
+    "EncryptedValue": "Zruog"
+  },
+  {
+    "Value": "Kyiv",
+    "Length": 4,
+    "Key": 1,
+    "Direction": false,
+    "EncryptedValue": "Jxhu"
+  },
+  {
+    "Value": "Encryption",
+    "Length": 10,
+    "Key": 5,
+    "Direction": true,
+    "EncryptedValue": "Jshw~uynts"
+  },
+  {
+    "Value": "Test123",
+    "Length": 7,
+    "Key": 4,
+    "Direction": true,
+    "EncryptedValue": "Xiwx567"
+  },
+  {
+    "Value": "\u041F\u0440\u0438\u0432\u0456\u0442",
+    "Length": 6,
+    "Key": 2,
+    "Direction": true,
+    "EncryptedValue": "\u0421\u0442\u043A\u0434\u0458\u0444"
+  }
+]

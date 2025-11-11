@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nbVd3VDh2uw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\Lab_3_3CSharp\\DAL.Context\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\messagepack\\3.1.4\\messagepack.3.1.4.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\messagepack.annotations\\3.1.4\\messagepack.annotations.3.1.4.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\messagepackanalyzer\\3.1.4\\messagepackanalyzer.3.1.4.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.net.stringtools\\17.11.4\\microsoft.net.stringtools.17.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

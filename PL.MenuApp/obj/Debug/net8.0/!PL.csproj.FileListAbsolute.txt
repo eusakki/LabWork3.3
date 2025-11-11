@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\PL.MenuApp\obj\Debug\net8.0\!PL.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\PL.MenuApp\obj\Debug\net8.0\!PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\PL.MenuApp\obj\Debug\net8.0\!PL.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\PL.MenuApp\obj\Debug\net8.0\!PL.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Lab_3_3(CSharp)\PL.MenuApp\obj\Debug\net8.0\!PL.csproj.CoreCompileInputs.cache
